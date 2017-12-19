@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zertex\\gridstackjs\\": ""
+            "zertex\\gridstack\\": ""
         }
     },
     "config": {
