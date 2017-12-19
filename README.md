@@ -1,6 +1,6 @@
 Gridstack.js виджет для Yii2
 ============================
-Интеграция в Yii [Gridstack.js](https://github.com/troolee/gridstack.js)
+Интеграция в Yii2 [Gridstack.js](https://github.com/troolee/gridstack.js)
 
 Установка
 ---------
