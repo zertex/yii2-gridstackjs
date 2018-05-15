@@ -508,7 +508,8 @@
         // jscs:enable requireCamelCaseOrUpperCaseIdentifiers
 
         opts.itemClass = opts.itemClass || 'grid-stack-item';
-        var isNested = this.container.closest('.' + opts.itemClass).size() > 0;
+        //var isNested = this.container.closest('.' + opts.itemClass).size() > 0;
+        var isNested = false;
 
         this.opts = _.defaults(opts || {}, {
             width: parseInt(this.container.attr('data-gs-width')) || 12,
